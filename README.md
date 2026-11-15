@@ -1,3 +1,29 @@
+# rf-detr
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning. [ICLR 2026]
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+Roboflow 开发的实时目标检测与分割模型 RF-DETR，COCO SOTA，专为微调设计（ICLR 2026）。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # RF-DETR: Real-Time SOTA Object Detection, Instance Segmentation, and Keypoint Detection
 
 <div align="center">
